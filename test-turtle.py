@@ -1,4 +1,4 @@
-from turtle import *
+﻿from turtle import *
 
 for i in range(3):
     forward(200)
@@ -8,6 +8,3 @@ for i in range(3):
     forward(200)
 
 input()
-
-
-    
